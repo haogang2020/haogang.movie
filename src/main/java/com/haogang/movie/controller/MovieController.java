@@ -15,6 +15,9 @@ import com.haogang.movie.vo.MovieVO;
 @Controller
 public class MovieController {
 
+	/**
+	 * 
+	 */
 	@Resource
 	private MovieService movieService;
 	
